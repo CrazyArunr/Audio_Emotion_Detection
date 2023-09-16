@@ -1,0 +1,4 @@
+stremalit
+numpy
+librosa
+tensorflow
